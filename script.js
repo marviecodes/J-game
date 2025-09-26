@@ -12,6 +12,8 @@ const player0El = document.querySelector('.player--0');
 const player1El = document.querySelector('.player--1');
 const reset = document.querySelector('.btn--new');
 
+// Added something
+
 let scores, currentScore, activePlayer, playing;
 // Starting conditions
 const init = () => {
